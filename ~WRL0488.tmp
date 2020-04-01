@@ -1,7 +1,0 @@
-# intouchrandb.github.io
- char FirmwareBaseURL[] = "https://raw.githubusercontent.com/intouchrandb/intouchrandb.github.io/master/";//77 char
-char FirmwareURL[125];
-char FirmwareVersionURL[125];
-char FileName[]  = "BilgePumpCurrentNewPCBV11.ino";//31 char
-char FingerPrint[] = "CC:AA:48:48:66:46:0E:91:53:2C:9C:7C:23:2A:B1:74:4D:29:9D:33";
-
